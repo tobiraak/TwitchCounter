@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChangeScore": {
+      "commandName": "Project",
+      "commandLineArgs": "w"
+    }
+  }
+}
